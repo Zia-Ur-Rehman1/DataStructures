@@ -7,4 +7,4 @@
 ### Task 3 consist of binary search tree
 ## Task_4
 ### Task 4 consist of quick sort
-## This was the final lab submission of datasturctures course in which we used different algorithm to acheive the task in C++  
+## This was the final lab submission of datasturctures course in which we  have to detect the errors in code and submit a working code with all the test casees  paased. 
